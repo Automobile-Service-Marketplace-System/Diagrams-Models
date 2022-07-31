@@ -113,16 +113,20 @@ Almost all of the features are only available to authenticated users.
    1. Regarding authentication
       - Log out from the service centre dashboard
       - Reset password
+
    2. Regarding service center info & services
       - Request admin to change business info by providing necessary details and documents.
       - view/enter/update/delete details about services they provide .These changes will be reflected on their dedicated pages
       - add/edit/delete customized banner image for dedicated pages
         (along with some minor customization)
+
    3. Regarding support
       - can inquire admins about issues they face using the platform
+
    4. Regarding customers
       - accept/reject service appointments
       - see reviews posted by customers for the service center.
+
    5. Regarding spare-part selling
 
       Since service centers also can sell spare parts, there are features surrounding it too
@@ -143,7 +147,16 @@ Almost all of the features are only available to authenticated users.
       - delete accessories from catalogue 
       - see analytics
       - **If we implement a ordering method for customers to pay and order, features like, see unfulfilled orders, mar them a fulfilled after sending the product to customer, past orders and view selling performance**
+
    7. Regarding emergency support / roadside assistance
       - admins receive emergency requests from customers with a location attached.
       - if it's possible to assist that customer, admin can accept and send contact details of the technician sent for him.
+
+
+   8. Regarding reparing
+
+      - maintain staff can update the current status and progress of the vehical. and it will be easy for customers to keep in touch
+      - after reparing, service center can send messege/notification to customer regarding when can they get their vehical and other details
+      -see the vehical service history to analyze problems and changed parts.
+      
    
