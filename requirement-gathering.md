@@ -146,14 +146,13 @@ Almost all of the features are only available to authenticated users.
    7. Regarding emergency support / roadside assistance
       - admins receive emergency requests from customers with a location attached.
       - if it's possible to assist that customer, admin can accept and send contact details of the technician sent for him.
-      7. Regarding emergency support / roadside assistance
-    * If it's longtime repair then the admin will update the progress to the system.
-    - etc.
+      * If it's longtime repair then the admin will update the progress to the system.
+      - etc.
 
 ## Spare-part Center
 Spare-parts are sold via spare-part Shops and also service centers can sell spare-parts as a service. 
 1. Regarding spare-part shop
-    * Login to the system if there is a account otherwise create a new account providing required information to the administrator 
+    * Login to the system if there is a already created account otherwise create a new account providing required information to the administrator 
     * Forget password feature (Spare-parts centres can reset password if forgotten by entering correct email)
     * add/update/delete spare-parts
     * see the reserved spare-parts and reserve for the customer if it's possible
