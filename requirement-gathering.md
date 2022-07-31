@@ -55,6 +55,7 @@ Some features are only available to customers who have accounts.
       - see their appointments & service history
       - set reminders for scheduled vehicle servicing
       - see the progress / status for repairs
+      - can generate service/repair history document(pdf) and download it
    5. Regarding emergency support / roadside assistance
       - In a case of an emergency need of support, customers can search for service centres nearest to their locations and send service requests to those centres (availability of servicemen (will be updated by the service centre as they assign servicemen) will be displayed to the customer with service centres details so that he/she can make a choice of who to contact)
       - Customer receives contact info of the employee who's assigned to his/her emergency request if the service center accepts service request.
@@ -111,19 +112,23 @@ Almost all of the features are only available to authenticated users.
 2. Features of authenticated users.
 
    1. Regarding authentication
+
       - Log out from the service centre dashboard
       - Reset password
 
    2. Regarding service center info & services
+
       - Request admin to change business info by providing necessary details and documents.
       - view/enter/update/delete details about services they provide .These changes will be reflected on their dedicated pages
       - add/edit/delete customized banner image for dedicated pages
         (along with some minor customization)
 
    3. Regarding support
+
       - can inquire admins about issues they face using the platform
 
    4. Regarding customers
+
       - accept/reject service appointments
       - see reviews posted by customers for the service center.
 
@@ -138,46 +143,73 @@ Almost all of the features are only available to authenticated users.
       - after selling the reserved parts, clear reservations.
       - see analytics about sale performance
 
-   6. Regarding accessories  
+   6. Regarding accessories
 
       Since service centers also can sell accessories, there are features surrounding it too
 
-      - add new accessories to the catalogue 
-      - update details of existing accessories 
-      - delete accessories from catalogue 
+      - add new accessories to the catalogue
+      - update details of existing accessories
+      - delete accessories from catalogue
       - see analytics
       - **If we implement a ordering method for customers to pay and order, features like, see unfulfilled orders, mar them a fulfilled after sending the product to customer, past orders and view selling performance**
 
    7. Regarding emergency support / roadside assistance
+
       - admins receive emergency requests from customers with a location attached.
       - if it's possible to assist that customer, admin can accept and send contact details of the technician sent for him.
-      - If it's longtime repair then the admin will update the progress to the system.
-      - etc.
-   8. Regarding reparing
+      - If it's a longtime repair then the admin will update the progress to the system.
 
-      - maintain staff can update the current status and progress of the vehical. and it will be easy for customers to keep in touch
-      - after reparing, service center can send messege/notification to customer regarding when can they get their vehical and other details
-      -see the vehical service history to analyze problems and changed parts.
+   8. Regarding repairing
 
-## Spare-part Center
-Spare-parts are sold via spare-part Shops and also service centers can sell spare-parts as a service. 
-1. Regarding spare-part shop
-    - Login to the system if there is a already created account otherwise create a new account providing required information to the administrator 
-    - Forget password feature (Spare-parts centres can reset password if forgotten by entering correct email)
-    - add/update/delete spare-parts
-    - see the reserved spare-parts and reserve for the customer if it's possible
-    - Notify customer when the order is ready
-    - Contact customer for further clarification 
-    - etc.
-2. Regarding spare-parts where sell in the service centers
-    - add/update/delete spare-parts
-    - see the reserved spare-parts and reserve for the customer if it's possible
-    - Notify customer when the order is ready
-    - Contact customer for further clarification 
-    - etc.
+      - maintain staff can update the current status and progress of the vehicle. and it will be easy for customers to keep in touch
+      - after repairing, service center can send message/notification to customer regarding when can they get their vehicle and other details
+      - see the vehicle service history to analyze problems and changed parts.
 
+## Spare-part Seller
 
+Spare-parts are sold via spare-part Sellers and also service centers can sell spare-parts as a service.
+There are two stats of Spare part seller accounts
 
-   
+1. Unauthenticated users (either logged out or doesn't have an account yet)
+2. Authenticated users (logged in users)
 
-   
+Almost all of the features are only available to authenticated users.
+
+1. Features available to unauthenticated users
+1. Regrading authentication
+
+   - Request to create a Spare part seller account by filling out details and providing required documents.Will receive confirmation via email after an admin verifies the details and creates an account for them.
+   - Login to and already existing spare part seller account
+   - Forgot password feature forget password feature (Spare part sellers can reset password if forgotten by entering correct email)
+
+1. Features available to authenticated users
+
+   1. Regarding authentication
+
+      - Log out from the spare part seller dashboard
+      - Reset password
+
+   2. Regarding spare part seller info & services
+
+      - Request admin to change business info by providing necessary details and documents.
+      - add/edit/delete customized banner image for dedicated pages
+        (along with some minor customization)
+
+   3. Regarding support
+
+      - can inquire admins about issues they face using the platform
+
+   4. Regarding customers
+
+      - see reviews posted by customers for the service center.
+      - see information about customers who have reserved spare parts
+
+   5. Regarding spare-part selling
+
+      - add new spare parts to the catalogue
+      - update details of existing spare parts
+      - delete spare-parts from catalogue
+      - see reservations of spare parts from customers
+      - after selling the reserved parts, clear reservations.
+      - see customers who bought spare parts
+      - see analytics about sale performance
