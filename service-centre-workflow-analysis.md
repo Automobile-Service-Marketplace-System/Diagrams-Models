@@ -62,10 +62,38 @@
    - foreman takes the vehicle for a test drive again and check the status of previously identified faults
 
 7. Billing
-    - generate a bill using foreman's final report
+    - generate an invoice using foreman's final report
 
 8. Security Clearance
     - Checking the bill
     - checks the physical condition to make sure there aren't any faults/wrong doings from the service center's side.
 
+# Regarding auto parts selling (Spare parts,batteries, engine oil& lubricants, electronics,stickers & modifications etc.)
 
+## How spare parts stock management & selling works
+
+- Usually, only regular customers can reserve spare parts beforehand
+- So regular customers can reserve some spare part to purchase it later
+- Spare parts are identified by not only their part number but also a code based on the vehicle brand.
+- Usually sellers analyze their weekly selling performance to get a idea on what items are demanding at the moment
+- Some sellers even deliver spare parts to regular customers like service centers/technicians
+- they keep all purchase records(customer details and what they've bought)
+- for the same spare part, there are multiple manufacturer brands (Genuine, Japanese, Chinese, Thai etc.).They vary based on longevity and price.
+
+## How other products selling and stock management works
+
+ - More people order them online compared to spare parts
+ - stocks are managed through a system which also allows to analyze sale performance,same as spare parts
+ - Also keep purchase details
+ - for products that offer warranty, also keep warranty details  
+
+
+Based on these workflows, we've realized that a service centre which also sells spare parts and accessories should have following main roles
+
+ - Security Staff
+ - Foreman
+ - Technician
+ - Stock manager
+ - Customer care staff
+ - Billing staff
+ - Administrator

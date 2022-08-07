@@ -1,5 +1,4 @@
 # User roles and their functionalities
-
 ## Customer
 
 Mainly two types of customers,
