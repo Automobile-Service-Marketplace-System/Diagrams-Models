@@ -36,7 +36,8 @@ And we've identified the following features for these user roles
 1.  Customer
     - All customers(regardless of whether they have an account), can search for products and services on the company's customer-facing website customers who have an account can add spare parts/accessories to a cart and checkout as well
     - customers(authenticated) can make appointments for any service category they desire through the website
-    - customers can live chat with support staff customers who have an account can visit their profile and do the following things
+    - customers can live chat with support staff 
+    - customers who have an account can visit their profile and do the following things
         - see their pending orders
         - see past service records
         - after booking an appointment, customers receive appointment details and a QR code and they can use it to admit the vehicle to the center on the appointment day.
