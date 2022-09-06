@@ -1,0 +1,82 @@
+Looking at the Architecture of our system,
+For the most part it adheres to the Model View Controller architecture, 
+but some parts of the system works with REST apis as opposed to 
+getting the page from server the directly.
+In a high level sense, When users access the web application,
+ the server sends pages in some parts of the system and 
+just json data in some parts and it's presented in the UI acordingly.
+
+Technical Feasibility
+
+To determine the feasibility of developing this system, we looked into few aspects.
+To get a sense if the system can be developed with the technologies available to us, 
+We'll look at the technical fesibility.
+We are using free and open source technologies with huge community support.
+Because of that, developers won't have a issue finding slutions to problems they face.
+And the community support also means the technologies are trustworthy and suitable for a system like this.
+
+
+For development, Our team members will be using two IDEs, Vs Code and PhpStorm.
+Vs Code is free and we have access to PHpStorm , thanks to the Github student developer pac. 
+Both are very capable and enough for us to coding the system.
+
+
+Economic Feasibility
+
+As costs play a huge role in the development of a system, 
+first we determined if developing the system is economically feasible.
+As far as technologies go, There is no problem since we are using technologies that are free to use.
+All the members of the team can manage internet and electricty costs in the project duration.
+Even though hosting a web server can be expensive at times.
+
+
+
+Legal and Ethical Feasibility
+
+The system must obey laws and be ethical to be operated wihtout any issues.
+We'll look into how we make sure that our system is both legally and ethically feasible.
+This system won't face any problems due the the technologies as all of them have very permissive licenses,
+ allowing developers to use them as however they want.
+Our system won't share user data with any 3rd parties to protect the privacy of users.
+To protect user even in the rare event of a data breach,
+ we encrypt sensitive user data such as passwords before saving them in databases.
+When using our system, users will be presented with a user agreement 
+and a privacy policy to get user's consent before collecting their data.
+Whenever a user pays through our system, 
+users will recieve order confirmations to prove their payments.
+
+Operational Feasibility
+
+Even though a system seems feasible in all other aspects,  
+it's important to determine how well the system will solve
+the issues identified in requirement gathering. The system offers many features 
+to improve the efficiency of he manual process.
+It's very easy to supervise the servicing/repairing process with our system.
+With a intuitive and user friendly UI, users will be able to adapt our system very easily.
+This system also synchronizes online orders and physical purchases to ease with stock management.
+Real time notifications will be implemented to easily keep track of servicing/repair progress by both employees and customers.
+With instantly accessbile past service records of vehicles, technician's efficiency improves when identifying issues with vehicles.
+
+Considering all these, we believe that developing our system is feasible.
+
+Technologies play a center role in developing of  a system,
+So we choosed our technologies carefully.
+
+We chose HTML5, CSS3, and Javascript for frontend of our system.
+HTML will essentially form the structure of web pages and CSS will style them
+And Javscript makes thos pages interative.
+
+To develop the backend of our system, we use PHP as it has huge community suport and 
+we decided that PHP enables us to develop our system easily, 
+even under the project restrictions.
+
+We chose MySQL as our primary database and Redis to act as a cache storage.
+We'll use git & github to colloborate on our project and for version controlling.
+We chose Trello as our project management tool since it's free plan is enough for us.
+We will host the application on a VPS from Atlantic.net which is completely free for 12 months and suits our requirements. 
+
+We believe that we were able to propery demonstrate our proposed system.
+
+Thank you!
+
+
